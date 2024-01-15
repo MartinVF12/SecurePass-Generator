@@ -19,6 +19,5 @@ Alert: It displays the generated password in an alert.
 
  Users can interact with this code by clicking a button (not provided in the code) to trigger the generatePassword function, prompting them for input and displaying the generated password.
 
-Deploy link: https://martinvf12.github.io/SecurePass-Generator/ 
 
 <img width="1097" alt="IMG" src="https://github.com/MartinVF12/SecurePass-Generator/assets/152545821/907df23d-0bd0-45b7-b00d-d37f8c445864">
