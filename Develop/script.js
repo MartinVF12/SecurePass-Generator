@@ -1,5 +1,3 @@
-// Assignment code here
-
 // Main function called when the button is clicked
 
 function generatePassword() {
